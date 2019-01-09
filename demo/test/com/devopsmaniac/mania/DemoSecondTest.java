@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 import org.junit.Ignore;
 
-// aaa
+// bbb
 public class DemoSecondTest {
 
 	@Test
