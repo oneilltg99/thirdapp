@@ -13,6 +13,11 @@ public class DemoSecondTest {
 	}
 
 	@Test
+	public void somethingPseudoRandom() {
+		assertEquals( 1, Demo.somethingRandom() );
+	}
+
+	@Test
 	@Ignore
 	public void ignoreMePlease() {
 		assertEquals( 1, Demo.somethingRandom() );
